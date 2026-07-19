@@ -1,0 +1,41 @@
+Codigo,Nombre,Categoria,Lote,FechaVencimiento,Stock,StockMinimo,Precio,Imagen
+1,Ibuprofeno 400mg,Analgésico,IBU-2401,2028-05-31,142,40,4.50,ibuprofeno_400.png
+2,Paracetamol 500mg,Analgésico,PAR-2402,2028-10-31,200,50,3.00,paracetamol_500.png
+3,Amoxicilina 500mg,Antibiótico,AMX-2403,2026-04-15,80,30,8.50,amoxicilina_500.png
+4,Aspirina 100mg,Analgésico,ASP-2404,2029-01-31,300,60,2.50,aspirina_100.png
+5,Loratadina 10mg,Antihistamínico,LOR-2405,2028-08-31,150,35,5.00,loratadina_10.png
+6,Omeprazol 20mg,Gastrointestinal,OME-2406,2029-03-31,90,30,7.00,omeprazol_20.png
+7,Vitamina C 1000mg,Vitaminas,VTC-2407,2028-12-31,400,80,6.00,vitamina_c.png
+8,Diclofenaco 50mg,Antiinflamatorio,DIC-2408,2027-11-30,60,25,4.00,diclofenaco_50.png
+9,Azitromicina 500mg,Antibiótico,AZI-2409,2026-06-30,45,50,12.00,azitromicina_500.png
+10,Losartan 50mg,Antihipertensivo,LOS-2410,2028-07-31,110,30,9.50,losartan_50.png
+11,Salbutamol Inhalador,Respiratorio,SAL-2411,2026-07-30,30,40,15.00,salbutamol.png
+12,Metformina 850mg,Antidiabético,MET-2412,2028-06-30,150,40,8.00,metformina_850.png
+13,Cetirizina 10mg,Antihistamínico,CET-2413,2028-09-30,130,30,4.50,cetirizina_10.png
+14,Ibuprofeno 800mg,Analgésico,IBU-2414,2029-02-28,239,50,6.50,ibuprofeno_800.png
+15,Complejo B,Vitaminas,COB-2415,2028-12-31,220,50,10.00,complejo_b.png
+16,Clonazepam 2mg,Neurológico,CLO-2416,2025-12-20,40,20,14.00,clonazepam_2.png
+17,Atorvastatina 20mg,Cardiovascular,ATO-2417,2028-04-30,85,25,18.00,atorvastatina_20.png
+18,Naproxeno 500mg,Antiinflamatorio,NAP-2418,2028-01-31,105,30,5.50,naproxeno_500.png
+19,Enalapril 20mg,Antihipertensivo,ENA-2419,2029-05-31,160,35,6.00,enalapril_20.png
+20,Fluconazol 150mg,Antifúngico,FLU-2420,2026-08-05,50,60,9.00,fluconazol_150.png
+21,Alprazolam 0.5mg,Neurológico,AL-2421,2028-02-29,168,30,11.00,alprazolam_05.png
+22,Sertralina 50mg,Antidepresivo,SER-2422,2028-11-30,70,25,22.00,sertralina_50.png
+23,Tramadol 50mg,Analgésico Fuerte,TRA-2423,2026-07-10,35,40,16.00,tramadol_50.png
+24,Levotiroxina 100mcg,Hormonal,LEV-2424,2029-06-30,120,30,13.50,levotiroxina_100.png
+25,Pantoprazol 40mg,Gastrointestinal,PAN-2425,2028-10-31,140,35,8.50,pantoprazol_40.png
+26,Ciprofloxacino 500mg,Antibiótico,CIP-2426,2027-12-31,55,20,10.50,ciprofloxacino_500.png
+27,Dexametasona 4mg,Corticoide,DEX-2427,2026-08-12,80,25,3.50,dexametasona_4.png
+28,Prednisona 20mg,Corticoide,PRE-2428,2028-03-31,90,25,4.80,prednisona_20.png
+29,Bismuto Subsalicilato,Gastrointestinal,BIS-2429,2027-09-30,110,30,6.20,bismuto.png
+30,Loperamida 2mg,Antidiarreico,LOP-2430,2028-05-31,135,30,2.90,loperamida_2.png
+31,Meloxicam 15mg,Antiinflamatorio,MEL-2431,2028-08-31,88,25,7.30,meloxicam_15.png
+32,Clorfenamina 4mg,Antihistamínico,CLF-2432,2029-01-31,250,50,1.50,clorfenamina_4.png
+33,Ambroxol Jarabe,Respiratorio,AMB-2433,2027-10-31,60,20,5.80,ambroxol.png
+34,Glibenclamida 5mg,Antidiabético,GLI-2434,2028-12-31,175,40,3.20,glibenclamida_5.png
+35,Amlodipino 5mg,Antihipertensivo,AML-2435,2029-04-30,145,35,4.60,amlodipino_5.png
+36,Hidroclorotiazida 25mg,Diurético,HID-2436,2028-07-31,190,40,2.80,hidroclorotiazida_25.png
+37,Ketorolaco 10mg,Analgésico,KET-2437,2028-06-30,160,35,5.00,ketorolaco_10.png
+38,Cefalexina 500mg,Antibiótico,CEF-2438,2027-11-30,75,25,9.20,cefalexina_500.png
+39,Clindamicina 300mg,Antibiótico,CLI-2439,2026-08-16,40,50,11.50,clindamicina_300.png
+40,Miconazol Crema,Antifúngico,MIC-2440,2028-09-30,95,25,6.70,miconazol.png
