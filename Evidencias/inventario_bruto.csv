@@ -1,0 +1,47 @@
+ID,Nombre,Categoria,Stock,Precio,Imagen
+1,Ibuprofeno 400mg,Analgésico,142,4.5,ibuprofeno_400.png
+2,Paracetamol 500mg,Analgésico,200,3.0,paracetamol_500.png
+3,Amoxicilina 500mg,Antibiótico,80,8.5,amoxicilina_500.png
+4,Aspirina 100mg,Analgésico,300,2.5,aspirina_100.png
+5,Loratadina 10mg,Antihistamínico,150,5.0,loratadina_10.png
+6,Omeprazol 20mg,Gastrointestinal,90,7.0,omeprazol_20.png
+7,Vitamina C 1000mg,Vitaminas,400,6.0,vitamina_c.png
+8,Diclofenaco 50mg,Antiinflamatorio,60,4.0,diclofenaco_50.png
+9,Azitromicina 500mg,Antibiótico,45,12.0,azitromicina_500.png
+10,Losartan 50mg,Antihipertensivo,110,9.5,losartan_50.png
+11,Salbutamol Inhalador,Respiratorio,30,15.0,salbutamol.png
+12,Metformina 850mg,Antidiabético,150,8.0,metformina_850.png
+13,Cetirizina 10mg,Antihistamínico,130,4.5,cetirizina_10.png
+14,Ibuprofeno 800mg,Analgésico,239,6.5,ibuprofeno_800.png
+15,Complejo B,Vitaminas,220,10.0,complejo_b.png
+16,Clonazepam 2mg,Neurológico,40,14.0,clonazepam_2.png
+17,Atorvastatina 20mg,Cardiovascular,85,18.0,atorvastatina_20.png
+18,Naproxeno 500mg,Antiinflamatorio,105,5.5,naproxeno_500.png
+19,Enalapril 20mg,Antihipertensivo,160,6.0,enalapril_20.png
+20,Fluconazol 150mg,Antifúngico,50,9.0,fluconazol_150.png
+21,Alprazolam 0.5mg,Neurológico,168,11.0,alprazolam_05.png
+22,Sertralina 50mg,Antidepresivo,70,22.0,sertralina_50.png
+23,Tramadol 50mg,Analgésico Fuerte,35,16.0,tramadol_50.png
+24,Levotiroxina 100mcg,Hormonal,120,13.5,levotiroxina_100.png
+25,Pantoprazol 40mg,Gastrointestinal,140,8.5,pantoprazol_40.png
+26,Ciprofloxacino 500mg,Antibiótico,55,10.5,ciprofloxacino_500.png
+27,Dexametasona 4mg,Corticoide,80,3.5,dexametasona_4.png
+28,Prednisona 20mg,Corticoide,90,4.8,prednisona_20.png
+29,Bismuto Subsalicilato,Gastrointestinal,110,6.2,bismuto.png
+30,Loperamida 2mg,Antidiarreico,135,2.9,loperamida_2.png
+31,Meloxicam 15mg,Antiinflamatorio,88,7.3,meloxicam_15.png
+32,Clorfenamina 4mg,Antihistamínico,250,1.5,clorfenamina_4.png
+33,Ambroxol Jarabe,Respiratorio,60,5.8,ambroxol.png
+34,Glibenclamida 5mg,Antidiabético,175,3.2,glibenclamida_5.png
+35,Amlodipino 5mg,Antihipertensivo,145,4.6,amlodipino_5.png
+36,Hidroclorotiazida 25mg,Diurético,190,2.8,hidroclorotiazida_25.png
+37,Ketorolaco 10mg,Analgésico,160,5.0,ketorolaco_10.png
+38,Cefalexina 500mg,Antibiótico,75,9.2,cefalexina_500.png
+39,Clindamicina 300mg,Antibiótico,40,11.5,clindamicina_300.png
+40,Miconazol Crema,Antifúngico,95,6.7,miconazol.png
+41,bancomicina ,General,10,0.0,default.png
+42,vancomicina,General,10,0.0,default.png
+43,ciruelax,General,50,2.5,default.png
+44,indurama,General,0,200.0,default.png
+45,victus,General,0,1000.0,default.png
+46,musgo,General,0,1.0,default.png
