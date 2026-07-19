@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagenes/interfaz/logo_horizontal.png" alt="Logotipo de FarmaSafe" width="720">
+  <img src="./FarmaSafe/imagenes/interfaz/logo_horizontal.png" alt="Logotipo de FarmaSafe" width="720">
 </p>
 
 <h1 align="center">FarmaSafe</h1>
